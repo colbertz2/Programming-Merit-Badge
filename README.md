@@ -80,3 +80,9 @@ If you are a merit badge counselor and want some help tailoring this material in
 If you are a scout leader and would like me to teach a Programming Merit Badge class, you are welcome to ask. I can't promise I'll always be available to teach, but there's no harm in asking.
 
 You can find my contact info [here](https://zcolbert.com/bsa).
+
+## Links
+
+- [Programming Merit Badge Requirements](https://filestore.scouting.org/filestore/merit_badge_reqandres/programming.pdf)
+- [About Merit Badges](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/)
+- [Boy Scouts of America](https://www.scouting.org/)
