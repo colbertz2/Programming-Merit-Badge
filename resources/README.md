@@ -10,7 +10,7 @@ General resources related to the merit badge requirements and learning programmi
 
 Links to get you started learning Python.
 
-- [Python Software Foundation - downloads, tutorials, guides][https://www.python.org/]
+- [Python Software Foundation (downloads, tutorials, guides)](https://www.python.org/)
 - [Official Python Documentation](http://www.python.org/doc/)
 - [Learnpython.org (tutorials and interactive demos)](http://www.learnpython.org/)
 - [Scout Life Magazine - Python](https://scoutlife.org/about-scouts/merit-badge-resources/programming/42476/python/)
